@@ -1,0 +1,14 @@
+[package]
+name = "ogud"
+version = "0.1.0"
+authors = ["McCorney Severin <projects.mccorney@gmail.com>"]
+
+[lib]
+name = "ogud"
+path = "lib.rs"
+
+[[bin]]
+name = "ogud"
+path = "main.rs"
+
+
